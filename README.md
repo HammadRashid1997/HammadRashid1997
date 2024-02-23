@@ -31,9 +31,9 @@ Crafting quality, crushing bugs—because every line of code deserves a flawless
 
 **Greetings!** 👋
 
-I'm Hammad Rashid, a CS graduate and a QA enthusiast with a bachelor's degree from FAST University 🚀
+I'm Hammad Rashid, a CS graduate and a QA enthusiast 🚀
 
-Over the past 4 years, I've immersed myself in the world of programming, mastering languages such as C/C++, Python and Java, but that's not all—I bring a keen passion and proficiency in Quality Assurance, specializing in both manual and automation testing.
+With an experience of nearly 7 years, I've immersed myself in the world of programming, mastering languages such as C/C++, Python and Java, but that's not all—I bring a keen passion and proficiency in Quality Assurance, specializing in both manual and automation testing.
 
 On the development front, I've dived deep into C, C++, Java, and Python, crafting diverse projects with finesse. My journey extends to web development, where I've wielded the power of Bootstrap, HTML, CSS, Javascript 🌐
 
