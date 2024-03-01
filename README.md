@@ -39,6 +39,9 @@ On the development front, I've dived deep into C, C++, Java, and Python, craftin
 
 In the dynamic realm of Software Quality Assurance, I've honed my skills in static and dynamic testing techniques. From Unit Testing to E2E Testing, UI Testing to Performance Testing, I've meticulously navigated through various web and mobile applications 🧪 My automation testing arsenal includes JUnit and Unittest for Unit Testing, Postman for API Testing, and Cypress and Selenium for E2E Testing and UI Testing. When it comes to Performance Testing, I've harnessed the power of JMeter and Grafana K6 🚦
 
+![HammadRashid1997's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HammadRashid1997&theme=default&hide_border=false)
+![HammadRashid1997's Stats](https://github-readme-stats.vercel.app/api?username=HammadRashid1997&theme=default&show_icons=true&hide_border=false&count_private=true)
+
 ### 🛠️ Languages & Tools
 <div>
   <div id="languages-tools" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
