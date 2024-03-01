@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/hammad-rashid-2b51501aa/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/Hammad1007">
-    <img src="https://img.shields.io/badge/Github-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  <a href="https://github.com/HammadRashid1997">
+    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
 </div>
 </div>
