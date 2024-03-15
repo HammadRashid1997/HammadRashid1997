@@ -123,6 +123,7 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
     - Cypress
     - Selenium
     - Cucumber
+    - Test Cafe
     - Postman
     - Linters
     - EsLint
