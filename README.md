@@ -21,7 +21,7 @@
 </h1>
 </div>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=fira+code&pause=500&color=65CD53&center=true&random=false&width=435&lines=Computer+Science;Software+Quality+Assurance+Engineer;Manual+Testing;Automation+Testing;Cypress;Selenium;Postman"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=fira+code&pause=500&color=65CD53&center=true&random=false&width=435&lines=Computer+Science;Software+Quality+Assurance+Engineer;Manual+Testing;Automation+Testing;Cypress;Selenium;TestCafe;Postman"/></a>
 </p>
 
 
@@ -60,6 +60,7 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
     <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="Eslint"  alt="eslint" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" alt="pytest" width="40" height="40"/>&nbsp;
     <img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" title="Cypress" alt="cypress" width="40" height="40"/>&nbsp;
+    <img src="https://www.svgrepo.com/show/374124/testcafe.svg" title="Test Cafe" alt="testcafe" width="60" height="50"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gherkin-Light.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Light.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
