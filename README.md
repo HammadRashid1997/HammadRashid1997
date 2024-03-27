@@ -118,7 +118,14 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
           - Load Testing
           - Stress Testing
           - Endurance Testing 
- 
+
+ - **Test Scripting Languages:**
+
+   - JavaScript
+   - Python
+   - Java
+  
+
  - **Tools and Frameworks:**
  
     - Cypress
