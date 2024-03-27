@@ -53,6 +53,7 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="npm" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" title="MySQL" alt="mysql" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="tomcat" alt="tomcat" width="60" height="49"/>&nbsp;
@@ -124,6 +125,7 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
    - JavaScript
    - Python
    - Java
+   - TypeScript
   
 
  - **Tools and Frameworks:**
