@@ -168,8 +168,6 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
 
 [![Star History Chart](https://api.star-history.com/svg?repos=HammadRashid1997/Husky,HammadRashid1997/50Projects50Days-Testing,HammadRashid1997/Cat-Lovers,HammadRashid1997/Least-Cost-Path,HammadRashid1997/Payment-Management-System&type=Date)](https://star-history.com/#HammadRashid1997/Husky&HammadRashid1997/50Projects50Days-Testing&HammadRashid1997/Cat-Lovers&HammadRashid1997/Least-Cost-Path&HammadRashid1997/Payment-Management-System&Date)
 
-
-
 ## 📲 Get in Touch
 
 📬 Reach out to me via my email address at: hammadrashid2001@gmail.com
