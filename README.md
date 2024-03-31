@@ -103,18 +103,28 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
       - Requirement analysis
       - Design analysis
   - Dynamic Testing
-      - Manual Testing
-      - Automation Testing
-      - Functional Testing
-      - Non-functional Testing    
-      - Unit Testing
+      - Regression Testing
+      - System Testing
+      - Integration Testing
+      - Acceptance Testing
+      - Smoke Testing
+      - Sanity Testing
+      - Exploratory Testing
+      - Adhoc Testing
+      - Monkey Testing
+      - Gorilla Testing
+      - Boundary Value Testing
+      - Black/Grey/White box Testing
+      - Compatibility Testing
+      - Alpha/Beta Testing
+      - Cross Browser Testing
+      - Unit Testing(although it's part of a developer's job but still I have a good experience with it😉)
       - UI Testing
+      - User Acceptance Testing
       - Front-end Testing
       - E2E Testing
       - API Testing
-      - DB Testing
-      - Regression Testing
-      - Smoke Testing
+      - Database Testing
       - Performance Testing
           - Load Testing
           - Stress Testing
@@ -126,7 +136,6 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
    - Python
    - Java
    - TypeScript
-  
 
  - **Tools and Frameworks:**
  
