@@ -102,6 +102,8 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
       - Document analysis
       - Requirement analysis
       - Design analysis
+      - SRS and FRD analysis
+      - Writing and analysing test cases and test plans
   - Dynamic Testing
       - Regression Testing
       - System Testing
