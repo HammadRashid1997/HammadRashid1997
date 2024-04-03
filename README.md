@@ -92,7 +92,9 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
   - Clickup
   - Notion
   - MarkUp
-  - Microsoft Excel
+  - Microsoft Excel/Word
+  - Slack
+  - Asana
 
 - **Testing Techniques:**
   - Static Testing
