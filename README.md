@@ -96,7 +96,7 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
   - Asana
 
 - **Testing Techniques:**
-  - Static Testing
+  - **Static Testing**
       - Informal Code Review
       - Peer Review
       - Static code analysis
@@ -105,23 +105,30 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
       - Design analysis
       - SRS and FRD analysis
       - Writing and analysing test cases and test plans
-  - Dynamic Testing
-      - Regression Testing
-      - System Testing
+      - Writing and developing test strategies
+   
+  - **Dynamic Testing**
+      - Component Testing
+      - Component Integration Testing
       - Integration Testing
+      - System Testing
+      - System Integration Testing
       - Acceptance Testing
+      - Regression Testing
       - Smoke Testing
       - Sanity Testing
+      - Retesting Testing
       - Exploratory Testing
-      - Adhoc Testing
+      - Ad-hoc Testing
       - Monkey Testing
       - Gorilla Testing
       - Boundary Value Testing
+      - State Transitioning Testing
+      - Equivalence Class Testing
       - Black/Grey/White box Testing
       - Compatibility Testing
       - Alpha/Beta Testing
       - Cross Browser Testing
-      - Unit Testing(although it's part of a developer's job but still I have a good experience with it😉)
       - UI Testing
       - User Acceptance Testing
       - Front-end Testing
@@ -150,6 +157,7 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
     - Linters
     - EsLint
     - Grafana K6
+    - JMeter
     - JUnit
     - Unittest
     - Pytest
