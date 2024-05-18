@@ -9,6 +9,10 @@
   <a href="https://github.com/HammadRashid1997">
     <img src="https://img.shields.io/badge/Github-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
+
+  <a href="https://hammadrashid1997.github.io/Portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=zoom&logoColor=white" alt="Portfolio"/>
+  </a>
 </div>
 </div>
 <div id="header" align="center">
