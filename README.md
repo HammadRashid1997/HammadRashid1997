@@ -46,6 +46,7 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
 ![HammadRashid1997's Stats](https://github-readme-stats.vercel.app/api?username=HammadRashid1997&theme=default&show_icons=true&hide_border=false&count_private=true)
 
 
+
 ### 🛠️ Languages & Tools
 <div>
   <div id="languages-tools" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
