@@ -34,7 +34,7 @@ Crafting quality, crushing bugs—because every line of code deserves a flawless
 
 **Greetings!** 👋
 
-I'm Hammad Rashid, a CS graduate and a QA enthusiast 🚀
+My name is Muhammad Hammad Rashid, a CS graduate and a QA enthusiast 🚀
 
 With a good experience of the industry and freelancing projects, I've immersed myself in the world of programming, mastering languages such as C/C++, Python and Java, but that's not all—I bring a keen passion and proficiency in Quality Assurance, specializing in both manual and automation testing.
 
@@ -44,8 +44,6 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
 
 ![HammadRashid1997's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HammadRashid1997&theme=default&hide_border=false)
 ![HammadRashid1997's Stats](https://github-readme-stats.vercel.app/api?username=HammadRashid1997&theme=default&show_icons=true&hide_border=false&count_private=true)
-
-
 
 ### 🛠️ Languages & Tools
 <div>
