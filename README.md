@@ -25,7 +25,7 @@
 </h1>
 </div>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=fira+code&pause=500&color=65CD53&center=true&random=false&width=435&lines=Computer+Science;Software+Quality+Assurance+Engineer;Manual+Testing;Automation+Testing;Cypress;Selenium;TestCafe;Postman"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=fira+code&pause=500&color=65CD53&center=true&random=false&width=435&lines=Computer+Science;Software+Quality+Assurance+Engineer;ISTQB Certified Tester; Manual+Testing;Automation+Testing;Cypress;Selenium;TestCafe;Postman;JMeter;Grafana K6"/></a>
 </p>
 
 ### About Me 👀
