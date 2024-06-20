@@ -199,3 +199,4 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
 
 🔗 Follow me on my LinkedIn and I guarantee we can have an interesting chat 😃
 
+
