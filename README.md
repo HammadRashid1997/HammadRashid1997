@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/hammad-rashid-2b51501aa/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/HammadRashid1997">
-    <img src="https://img.shields.io/badge/Github-yellow?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  <a href="https://medium.com/@hammad.rashid_73904">
+    <img src="https://img.shields.io/badge/Github-yellow?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 
   <a href="https://hammadrashid1997.github.io/Portfolio/">
