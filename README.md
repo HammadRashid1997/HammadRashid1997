@@ -10,6 +10,7 @@
     <img src="https://img.shields.io/badge/Medium-yellow?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 
+
   <a href="https://hammadrashid1997.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=zoom&logoColor=white" alt="Portfolio"/>
   </a>
