@@ -1,5 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media1.giphy.com/media/JKo6P5QyuFkuhLlfVq/giphy.gif?cid=ecf05e471b0wg05ktj8hhwljf7ey8hcyqibwfzb7yf4tsc9e&rid=giphy.gif&ct=s" width="100"/>
+<div id="istqb" align="center">
+  <img src="images/logo.jpg" alt="ISTQB Logo" width="100"/>
+  <p><strong>ISTQB ® Certified Tester</strong></p>
 </div>
 <div id="header" align="center">
   <div id="badges">
@@ -10,18 +11,15 @@
     <img src="https://img.shields.io/badge/Medium-yellow?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 
-
   <a href="https://hammadrashid1997.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=zoom&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
 </div>
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=Hammad1007&style=flat-square&color=blue" align="center" alt=""/>
-</div>
+
 <div id="header" align="center">
   <h1>
-  Hi there, I'm Hammad Rashid
+  Welcome to my Profile
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -29,15 +27,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=fira+code&pause=500&color=65CD53&center=true&random=false&width=435&lines=Computer+Science;Software+Quality+Assurance+Engineer;ISTQB ® Certified Tester (CTFL); Manual+Testing;Automation+Testing;Cypress;Selenium;TestCafe;Postman;JMeter;Grafana K6"/></a>
 </p>
 
-### About Me 👀
-
+## Introduction 👀
 
 Crafting quality, crushing bugs—because every line of code deserves a flawless performance. 🛠️
-
-<div id="istqb" align="center">
-  <img src="images/logo.jpg" alt="ISTQB Logo" width="100"/>
-  <p><strong>ISTQB ® Certified Tester</strong></p>
-</div>
 
 **Greetings!** 👋
 
@@ -52,7 +44,7 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
 ![HammadRashid1997's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HammadRashid1997&theme=default&hide_border=false)
 ![HammadRashid1997's Stats](https://github-readme-stats.vercel.app/api?username=HammadRashid1997&theme=default&show_icons=true&hide_border=false&count_private=true)
 
-### 🛠️ Languages & Tools
+## 🛠️ Languages & Tools
 <div>
   <div id="languages-tools" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -205,5 +197,3 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
 📬 Reach out to me via my email address hammadrashid2001@gmail.com
 
 🔗 Follow me on my LinkedIn and I guarantee we can have an interesting chat 😃
-
-
