@@ -34,7 +34,10 @@
 
 Crafting quality, crushing bugs—because every line of code deserves a flawless performance. 🛠️
 
-
+<div id="istqb" align="center">
+  <img src="images/logo.jpg" alt="ISTQB Logo" width="100"/>
+  <p><strong>ISTQB ® Certified Tester</strong></p>
+</div>
 
 **Greetings!** 👋
 
