@@ -91,6 +91,7 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
   - Microsoft Excel/Word
   - Slack
   - Asana
+  - Trello
 
 - **Testing Techniques:**
   - **Static Testing**
