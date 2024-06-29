@@ -39,10 +39,23 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
 ![HammadRashid1997's Stats](https://github-readme-stats.vercel.app/api?username=HammadRashid1997&theme=default&show_icons=true&hide_border=false&count_private=true)
 
 ## 💎 Certifications
-<div id="istqb" align="left">
-  <img src="images/logo.jpg" alt="ISTQB Logo" width="100"/>
-  <p><strong>ISTQB ® Certified Tester</strong></p>
-</div>
+<table>
+  <tr>
+    <td><img src="images/logo.jpg" alt="ISTQB Logo" width="100"/></td>
+    <td><strong>ISTQB ® Certified Tester</strong></td>
+  </tr>
+
+  <tr>
+    <td><img src="images/logo2.jpg" alt="Great Learning Logo" width="100"/></td>
+    <td><strong>Introduction to Software Testing</strong></td>
+  </tr>
+
+  <tr>
+    <td><img src="images/logo2.jpg" alt="Great Learning Logo" width="100"/></td>
+    <td><strong>Introduction to Manual Testing</strong></td>
+  </tr>
+  
+</table>
 
 ## 🛠️ Languages & Tools
 <div>
