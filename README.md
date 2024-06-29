@@ -21,7 +21,7 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=fira+code&pause=500&color=260fd4&center=true&random=false&width=435&lines=Computer+Science;Software+Quality+Assurance+Engineer;ISTQB ® Certified Tester (CTFL); Manual+Testing;Automation+Testing;Cypress;Selenium;TestCafe;Postman;JMeter;Grafana K6"/></a>
 </p>
 
-## Introduction 👀
+## About Me 👀
 
 Crafting quality, crushing bugs—because every line of code deserves a flawless performance. 🛠️
 
@@ -37,6 +37,12 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
 
 ![HammadRashid1997's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HammadRashid1997&theme=default&hide_border=false)
 ![HammadRashid1997's Stats](https://github-readme-stats.vercel.app/api?username=HammadRashid1997&theme=default&show_icons=true&hide_border=false&count_private=true)
+
+## 💎 Certifications
+<div id="istqb" align="left">
+  <img src="images/logo.jpg" alt="ISTQB Logo" width="100"/>
+  <p><strong>ISTQB ® Certified Tester</strong></p>
+</div>
 
 ## 🛠️ Languages & Tools
 <div>
