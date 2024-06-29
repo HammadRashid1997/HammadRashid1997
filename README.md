@@ -1,7 +1,9 @@
 <div id="istqb" align="center">
   <img src="images/logo.jpg" alt="ISTQB Logo" width="250"/>
-  <p><strong>ISTQB ® Certified Tester</strong></p>
 </div>
+<div id="heading" align="center">
+ <p><strong>ISTQB ® Certified Tester</strong></p>
+ </div>
 <div id="header" align="center">
   <div id="badges">
   <a href="https://www.linkedin.com/in/hammad-rashid-2b51501aa/">
