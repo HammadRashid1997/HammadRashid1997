@@ -27,13 +27,13 @@ Crafting quality, crushing bugs—because every line of code deserves a flawless
 
 **Greetings!** 👋
 
-My name is Muhammad Hammad Rashid, a CS graduate and a QA enthusiast 🚀
+My name is Muhammad Hammad Rashid, a **CS graduate** and a **QA enthusiast** 🚀
 
-Being an ISTQB Certified Tester with a good experience of the industry and freelancing projects completing over 50+ web and mobile applications, I've immersed myself in the world of programming, mastering languages such as C/C++, Python and Java, but that's not all—I bring a keen passion and proficiency in Quality Assurance, specializing in both manual and automation testing.
+Being an **ISTQB Certified Tester** with a good experience of the industry and freelancing projects completing over 50+ web and mobile applications, I've immersed myself in the world of programming, mastering languages such as C/C++, Python and Java, but that's not all—I bring a keen passion and proficiency in Quality Assurance, specializing in both manual and automation testing.
 
-On the development front, I've dived deep into C, C++, Java, and Python, crafting diverse projects with finesse. My journey extends to web development, where I've wielded the power of Bootstrap, HTML, CSS, Javascript 🌐
+On the development front, I've dived deep into **C, C++, Java, and Python**, crafting diverse projects with finesse. My journey extends to web development, where I've wielded the power of **Bootstrap, HTML, CSS, Javascript** 🌐
 
-In the dynamic realm of Software Quality Assurance, I've honed my skills in static and dynamic testing techniques. From Unit Testing to E2E Testing, UI Testing to Performance Testing, I've meticulously navigated through various web and mobile applications 🧪 My automation testing arsenal includes JUnit and Unittest for Unit Testing, Postman for API Testing, and Cypress, TestCafe and Selenium for E2E Testing and UI Testing. When it comes to Performance Testing, I've harnessed the power of JMeter and Grafana K6 🚦
+In the dynamic realm of Software Quality Assurance, I've honed my skills in static and dynamic testing techniques. From **Unit Testing** to **E2E Testing**, **UI Testing** to **Performance Testing**, I've meticulously navigated through various web and mobile applications 🧪 My automation testing arsenal includes **JUnit** and **Unittest** for Unit Testing, **Postman** for **API Testing**, and **Cypress**, **TestCafe** and **Selenium** for E2E Testing and UI Testing. When it comes to Performance Testing, I've harnessed the power of **JMeter** and **Grafana K6** 🚦
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HammadRashid1997&card_width=900&title_color=FFFFFF&text_color=FFFFFF&rank_icon=percentile&bg_color=30,e96443,904e95" />
