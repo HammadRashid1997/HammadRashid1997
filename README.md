@@ -39,7 +39,7 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=HammadRashid1997&card_width=900&title_color=FFFFFF&text_color=FFFFFF&rank_icon=percentile&bg_color=30,e96443,904e95" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HammadRashid1997&layout=compact&langs_count=8&card_width=900" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HammadRashid1997&layout=compact&langs_count=8&card_width=875" />
 </a>
 
 ## 🛠️ Languages & Tools
