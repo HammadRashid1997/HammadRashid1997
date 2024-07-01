@@ -42,6 +42,8 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HammadRashid1997&layout=compact&langs_count=8&card_width=400" />
 </a>
 
+[![Hammad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HammadRashid1997&theme=cottoncandy)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ## 🛠️ Languages & Tools
 <div>
   <div id="languages-tools" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
@@ -84,8 +86,6 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
     <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="slack" width="40" height="40"/>&nbsp;
     <img src="https://assets.mofoprod.net/network/images/discord.original.jpg" title="discord" alt=discord" width="50" height="50"/>&nbsp;
 </div>
-
-    
  
 ## 🖥️ Quality Assurance Engineer and Developer
 
