@@ -193,7 +193,7 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
 
 ## Star History 🌟
 
-[![Star History Chart](https://api.star-history.com/svg?repos=HammadRashid1997/Husky,HammadRashid1997/50Projects50Days-Testing,HammadRashid1997/Least-Cost-Path,HammadRashid1997/Payment-Management-System,HammadRashid1997/Portfolio,HammadRashid1997/Fertilize-Ai,HammadRashid1997/QA-RoadMap&type=Date)](https://star-history.com/#HammadRashid1997/Husky&HammadRashid1997/50Projects50Days-Testing&HammadRashid1997/Least-Cost-Path&HammadRashid1997/Payment-Management-System&HammadRashid1997/Portfolio&HammadRashid1997/Fertilize-Ai&HammadRashid1997/QA-RoadMap&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=HammadRashid1997/Husky,HammadRashid1997/50Projects50Days-Testing,HammadRashid1997/Portfolio,HammadRashid1997/Fertilize-Ai,HammadRashid1997/QA-RoadMap&type=Date)](https://star-history.com/#HammadRashid1997/Husky&HammadRashid1997/50Projects50Days-Testing&HammadRashid1997/Portfolio&HammadRashid1997/Fertilize-Ai&HammadRashid1997/QA-RoadMap&Date)
 
 ## 📲 Get in Touch
 
