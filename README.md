@@ -182,6 +182,8 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
   - Adobe Illustrator
   - Canva
   - Sketch
+  - Miro
+  - Lucid Chart
  
 - **Web Technologies:**
   - HTML
