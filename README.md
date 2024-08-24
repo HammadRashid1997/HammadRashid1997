@@ -56,7 +56,7 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
     <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"title="Bootstrap"  alt="Bootstrap" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="Eslint"  alt="eslint" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" alt="pytest" width="40" height="40"/>&nbsp;
-    <img src="https://static-00.iconduck.com/assets.00/cypress-icon-512x511-29zvfts6.png" title="Cypress" alt="cypress" width="40" height="40"/>&nbsp;
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrvVqEapXsm3wyIBCj0j6GwUMwEpsUElyGSA&s" title="Cypress" alt="cypress" width="40" height="40"/>&nbsp;
     <img src="https://www.svgrepo.com/show/374124/testcafe.svg" title="Test Cafe" alt="testcafe" width="60" height="50"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gherkin-Light.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>&nbsp;
