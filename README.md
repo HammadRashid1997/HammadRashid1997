@@ -194,6 +194,4 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
 
 📬 Reach out to me via my email address hammadrashid2001@gmail.com
 
-🔗 Follow me on my LinkedIn and I guarantee we can have an interesting chat 😃
-
-
+🔗 Follow me on [LinkedIn](https://www.linkedin.com/in/hammad-rashid-2b51501aa/) and we can have an interesting conversation 😃
