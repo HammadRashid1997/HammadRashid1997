@@ -68,6 +68,7 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" title="Github" alt="github" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Light.svg" title="Gitlab" alt="gitlab" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6-UAqq37mwatf_-z7LJFFg5-KM7gCvqXxJQ&s" title="Miro" alt=miro" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" title="Illustrator" alt="Ai" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/1900px-Canva_icon_2021.svg.png" title="Canva" alt="canva" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sketch_Logo.svg/850px-Sketch_Logo.svg.png" title="Sketch" alt="sketch" width="40" height="40"/>&nbsp;
@@ -78,6 +79,8 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Light.svg" title="AndroidStudio" alt="andstd" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="slack" width="40" height="40"/>&nbsp;
     <img src="https://assets.mofoprod.net/network/images/discord.original.jpg" title="discord" alt=discord" width="50" height="50"/>&nbsp;
+   
+    
 </div>
  
 ## 🖥️ Quality Assurance Engineer and Developer
