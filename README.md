@@ -91,7 +91,8 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
   - Clickup
   - Notion
   - MarkUp
-  - Microsoft Excel/Word
+  - Microsoft Excel
+  - Microsoft Word
   - Slack
   - Asana
   - Trello
