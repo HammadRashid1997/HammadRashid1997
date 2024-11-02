@@ -18,7 +18,7 @@
 </div>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=fira+code&pause=500&color=260fd4&center=true&random=false&width=435&lines=Computer+Science;Software+Quality+Assurance+Engineer;ISTQB ® Certified Tester (CTFL); Manual+Testing;Automation+Testing;Web+Application+Testing;Mobile+Application+Testing;Performance+Testing"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=fira+code&pause=500&color=1cfc03&center=true&random=false&width=435&lines=Computer+Science;Software+Quality+Assurance+Engineer;ISTQB ® Certified Tester (CTFL); Manual+Testing;Automation+Testing;Web+Application+Testing;Mobile+Application+Testing;Performance+Testing"/></a>
 </p>
 
 ## About Me 👀
