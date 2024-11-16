@@ -77,6 +77,7 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Light.svg" title="Visual Studio" alt="VS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="xcode" width="45" height="45"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Light.svg" title="AndroidStudio" alt="andstd" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" title="Intellij Idea" alt="Idea" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="slack" width="40" height="40"/>&nbsp;
     <img src="https://assets.mofoprod.net/network/images/discord.original.jpg" title="discord" alt=discord" width="40" height="40"/>&nbsp;
 </div>
