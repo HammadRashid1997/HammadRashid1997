@@ -62,6 +62,7 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="jira" width="40" height="40"/>&nbsp;
     <img src="https://seeklogo.com/images/C/clickup-symbol-logo-BB24230BBB-seeklogo.com.png" title="Clickup" alt="Clickup" width="32" height="40"/>&nbsp;
+    <img src="https://www.thetesttribe.com/wp-content/uploads/2023/01/Basic2x-1.png" title="Allure Testops" alt="Allure" width="120" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1200px-Notion-logo.svg.png" title="Notion" alt="Notion" width="42" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" alt="git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" title="Github" alt="github" width="40" height="40"/>&nbsp;
@@ -78,8 +79,6 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Light.svg" title="AndroidStudio" alt="andstd" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="slack" width="40" height="40"/>&nbsp;
     <img src="https://assets.mofoprod.net/network/images/discord.original.jpg" title="discord" alt=discord" width="40" height="40"/>&nbsp;
-   
-    
 </div>
  
 ## 🖥️ Quality Assurance Engineer and Developer
