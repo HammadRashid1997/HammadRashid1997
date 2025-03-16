@@ -67,7 +67,6 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6-UAqq37mwatf_-z7LJFFg5-KM7gCvqXxJQ&s" title="Miro" alt=miro" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" title="Illustrator" alt="Ai" width="40" height="40"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Canva_icon_2021.svg/1900px-Canva_icon_2021.svg.png" title="Canva" alt="canva" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sketch_Logo.svg/850px-Sketch_Logo.svg.png" title="Sketch" alt="sketch" width="40" height="40"/>&nbsp;
     <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/lucidchart-icon.png" title="Lucid chart" alt="lchart" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" title="VScode" alt="VSC" width="40" height="40"/>&nbsp;
