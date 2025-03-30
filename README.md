@@ -92,6 +92,7 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
   - Slack
   - Asana
   - Trello
+  - Allure TestOps
 
 - **Testing Techniques:**
   - **Static Testing**
