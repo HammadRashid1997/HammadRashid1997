@@ -23,7 +23,6 @@ Crafting quality, crushing bugs—because every line of code deserves a flawless
 
 **Greetings!** 👋
 
-
 My name is Muhammad Hammad Rashid, a **CS graduate** and a **QA enthusiast** 🚀
 
 Being an **ISTQB Certified Tester** with a good experience of the industry and freelancing projects completing over 50+ web and mobile applications, I've immersed myself in the world of programming, mastering languages such as C/C++, Python and Java, but that's not all—I bring a keen passion and proficiency in Quality Assurance, specializing in both manual and automation testing.
