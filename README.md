@@ -176,31 +176,6 @@ Delivering reliable, efficient software solutions through a combination of devel
     - Simulators
     - Emulators
 
-### Development Skills
-
-- **Programming Languages:**
-  - C
-  - C++
-  - Python
-  - Java
-  - JavaScript
-
-- **Design Technologies:**
-  - Figma
-  - Adobe Illustrator
-  - Canva
-  - Sketch
-  - Miro
-  - Lucid Chart
- 
-- **Web Technologies:**
-  - HTML
-  - CSS
-  - JavaScript
-
-- **Database:**
-  - SQL
-
 ## Star History 🌟
 
 [![Star History Chart](https://api.star-history.com/svg?repos=HammadRashid1997/Husky,HammadRashid1997/50Projects50Days-Testing,HammadRashid1997/Portfolio,HammadRashid1997/Fertilize-Ai,HammadRashid1997/QA-RoadMap,HammadRashid1997/Automation-Testing&type=Date)](https://star-history.com/#HammadRashid1997/Husky&HammadRashid1997/50Projects50Days-Testing&HammadRashid1997/Portfolio&HammadRashid1997/Fertilize-Ai&HammadRashid1997/QA-RoadMap&HammadRashid1997/Automation-Testing&Date)
