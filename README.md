@@ -15,20 +15,41 @@
 
 ## About Me 👀
 
-Crafting quality, crushing bugs—because every line of code deserves a flawless performance. 🛠️
+Crafting Quality, Crushing Bugs – because every line of code deserves flawless performance.
 
-**Greetings!** 👋
+#### Educational Background 👨‍💻
 
-My name is Muhammad Hammad Rashid, a **CS graduate** and a **QA enthusiast** 🚀
+Holding a bachelors degree in Computer Science from National University of Computer and Emerging Sciences.
 
-Being an **ISTQB Certified Tester** with a good experience of the industry and freelancing projects completing over 50+ web and mobile applications, I've immersed myself in the world of programming, mastering languages such as C/C++, Python and Java, but that's not all—I bring a keen passion and proficiency in Quality Assurance, specializing in both manual and automation testing.
+#### Core Skills 🌟
 
-On the development front, I've dived deep into **C, C++, Java, and Python**, crafting diverse projects with finesse. My journey extends to web development, where I've wielded the power of **Bootstrap, HTML, CSS, Javascript** 🌐
+Programming Languages: C, C++, Python, JavaScript, Java, Kotlin
+Testing: Manual and Automation Testing
+Automation Tools: Postman, Cypress, JMeter, Selenium, Appium
+Certification: ISTQB Foundation Level Certified
 
-In the dynamic realm of Software Quality Assurance, I've honed my skills in static and dynamic testing techniques. From **Unit Testing** to **E2E Testing**, **UI Testing** to **Performance Testing**, I've meticulously navigated through various web and mobile applications 🧪 My automation testing arsenal includes **JUnit** and **Unittest** for Unit Testing, **Postman** for **API Testing**, and **Cypress**, **TestCafe** and **Selenium** for E2E Testing and UI Testing. When it comes to Performance Testing, I've harnessed the power of **JMeter** and **Grafana K6** 🚦
+#### Experience Snapshot 🧩
+
+Manual Testing for websites and applications, ensuring every detail meets high-quality standards.
+Automation Testing with hands-on experience in tools that streamline and strengthen testing processes.
+Agile Methodologies: Proficient in Scrum and Kanban, delivering iterative, high-quality releases.
+SDLC Knowledge: Skilled in Waterfall, V-Model, and Agile models for diverse project needs.
+
+#### Avid Writer & Active Contributor ✍️
+
+I’m an active contributor on Medium, sharing insights on software testing, best practices, and the evolving role of QA engineers in development. Additionally, I regularly answer questions on Quora across various topics, sharing my knowledge and offering real-world problem-solving advice to help others in diverse fields.
+
+#### Beyond Tech 📚
+
+When I’m not testing or coding, you’ll find me immersed in books, exploring new worlds through literature. I also love swimming to stay active and refreshed. My passion for storytelling extends beyond writing—I’ve performed in theatre and dramatics, bringing characters to life on stage. Additionally, I’m fond of driving cars and riding bikes, enjoying the thrill of the road and the freedom it brings.
+
+#### What Drives Me ⚡
+
+Delivering reliable, efficient software solutions through a combination of development and QA skills, keeping up with latest technologies to bring adaptability and efficiency to every project I work on.
 
 
 ## 🛠️ Languages & Tools
+
 <div>
   <div id="languages-tools" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
