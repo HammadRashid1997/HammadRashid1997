@@ -149,16 +149,15 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
  
     - Cypress
     - Selenium
-    - Cucumber
-    - Test Cafe
     - Postman
-    - Linters
+    - Proxyman
     - EsLint
     - Grafana K6
     - JMeter
     - JUnit
-    - Unittest
     - Pytest
+    - Simulators
+    - Emulators
 
 ### Development Skills
 
@@ -167,6 +166,7 @@ In the dynamic realm of Software Quality Assurance, I've honed my skills in stat
   - C++
   - Python
   - Java
+  - JavaScript
 
 - **Design Technologies:**
   - Figma
