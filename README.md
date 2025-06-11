@@ -19,7 +19,6 @@
 
 ## About Me 👀
 
-
 Crafting quality, crushing bugs—because every line of code deserves a flawless performance. 🛠️
 
 **Greetings!** 👋
