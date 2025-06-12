@@ -142,6 +142,8 @@ Delivering reliable, efficient software solutions through a combination of devel
       - Equivalence Class Testing
       - Black/Grey/White box Testing
       - Compatibility Testing
+      - Web Application Testing
+      - Mobile Application Testing
       - Alpha/Beta Testing
       - Cross Browser Testing
       - UI Testing
