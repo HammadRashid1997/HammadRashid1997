@@ -23,30 +23,25 @@ Holding a bachelors degree in Computer Science from National University of Compu
 
 #### Core Skills 🌟
 
-Programming Languages: C, C++, Python, JavaScript, Java, Kotlin
-Testing: Manual and Automation Testing
-Automation Tools: Postman, Cypress, JMeter, Selenium, Appium
-Certification: ISTQB Foundation Level Certified
+* Programming Languages: C, C++, Python, JavaScript, Java, Kotlin
+* Testing: Manual and Automation Testing
+* Automation Tools: Postman, Cypress, JMeter, Selenium, Appium
+* Certification: ISTQB Foundation Level Certified
 
 #### Experience Snapshot 🧩
 
-Manual Testing for websites and applications, ensuring every detail meets high-quality standards.
-Automation Testing with hands-on experience in tools that streamline and strengthen testing processes.
-Agile Methodologies: Proficient in Scrum and Kanban, delivering iterative, high-quality releases.
-SDLC Knowledge: Skilled in Waterfall, V-Model, and Agile models for diverse project needs.
+* Manual Testing for websites and applications, ensuring every detail meets high-quality standards.
+* Automation Testing with hands-on experience in tools that streamline and strengthen testing processes.
+* Agile Methodologies: Proficient in Scrum and Kanban, delivering iterative, high-quality releases.
+* SDLC Knowledge: Skilled in Waterfall, V-Model, and Agile models for diverse project needs.
 
 #### Avid Writer & Active Contributor ✍️
 
 I’m an active contributor on Medium, sharing insights on software testing, best practices, and the evolving role of QA engineers in development. Additionally, I regularly answer questions on Quora across various topics, sharing my knowledge and offering real-world problem-solving advice to help others in diverse fields.
 
-#### Beyond Tech 📚
-
-When I’m not testing or coding, you’ll find me immersed in books, exploring new worlds through literature. I also love swimming to stay active and refreshed. My passion for storytelling extends beyond writing—I’ve performed in theatre and dramatics, bringing characters to life on stage. Additionally, I’m fond of driving cars and riding bikes, enjoying the thrill of the road and the freedom it brings.
-
 #### What Drives Me ⚡
 
 Delivering reliable, efficient software solutions through a combination of development and QA skills, keeping up with latest technologies to bring adaptability and efficiency to every project I work on.
-
 
 ## 🛠️ Languages & Tools
 
