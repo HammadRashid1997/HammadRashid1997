@@ -86,6 +86,7 @@ Delivering reliable, efficient software solutions through a combination of devel
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" title="Intellij Idea" alt="Idea" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="slack" width="40" height="40"/>&nbsp;
     <img src="https://assets.mofoprod.net/network/images/discord.original.jpg" title="discord" alt=discord" width="40" height="40"/>&nbsp;
+    <img src="https://avatars.githubusercontent.com/u/40727946?v=4" title="Proxyman" alt=proxyman" width="40" height="40"/>&nbsp;
 </div>
  
 ## 🖥️ Quality Assurance Engineer and Developer
