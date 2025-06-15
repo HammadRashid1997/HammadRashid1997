@@ -51,27 +51,22 @@ Delivering reliable, efficient software solutions through a combination of devel
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Light.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/TypeScript.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" alt="npm" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" title="MySQL" alt="mysql" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="tomcat" alt="tomcat" width="60" height="49"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"title="Bootstrap"  alt="Bootstrap" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="tomcat" alt="tomcat" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="Eslint"  alt="eslint" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" alt="pytest" width="40" height="40"/>&nbsp;
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrvVqEapXsm3wyIBCj0j6GwUMwEpsUElyGSA&s" title="Cypress" alt="cypress" width="40" height="40"/>&nbsp;
-    <img src="https://www.svgrepo.com/show/374124/testcafe.svg" title="Test Cafe" alt="testcafe" width="60" height="50"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gherkin-Light.svg" title="Cucumber" alt="Cucumber" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Light.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="jira" width="40" height="40"/>&nbsp;
-    <img src="https://www.thetesttribe.com/wp-content/uploads/2023/01/Basic2x-1.png" title="Allure Testops" alt="Allure" width="120" height="40"/>&nbsp;
+    <img src="https://avatars.githubusercontent.com/u/5879127?s=280&v=4" title="Allure" alt="Allure" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1200px-Notion-logo.svg.png" title="Notion" alt="Notion" width="42" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" title="Git" alt="git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" title="Github" alt="github" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Light.svg" title="Gitlab" alt="gitlab" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
@@ -80,16 +75,16 @@ Delivering reliable, efficient software solutions through a combination of devel
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sketch_Logo.svg/850px-Sketch_Logo.svg.png" title="Sketch" alt="sketch" width="40" height="40"/>&nbsp;
     <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/lucidchart-icon.png" title="Lucid chart" alt="lchart" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" title="VScode" alt="VSC" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Light.svg" title="Visual Studio" alt="VS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Light.svg" title="VisualStudio" alt="VS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="xcode" width="45" height="45"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Light.svg" title="AndroidStudio" alt="andstd" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" title="Intellij Idea" alt="Idea" width="40" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" title="IntelliJ" alt="Idea" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="slack" width="40" height="40"/>&nbsp;
     <img src="https://assets.mofoprod.net/network/images/discord.original.jpg" title="discord" alt=discord" width="40" height="40"/>&nbsp;
     <img src="https://avatars.githubusercontent.com/u/40727946?v=4" title="Proxyman" alt=proxyman" width="40" height="40"/>&nbsp;
 </div>
  
-## 🖥️ Quality Assurance Engineer and Developer
+## 🖥️ Quality Assurance Engineer
 
 ### Quality Assurance Skills
 
