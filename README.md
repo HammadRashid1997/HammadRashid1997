@@ -84,9 +84,7 @@ Delivering reliable, efficient software solutions through a combination of devel
     <img src="https://avatars.githubusercontent.com/u/40727946?v=4" title="Proxyman" alt=proxyman" width="40" height="40"/>&nbsp;
 </div>
  
-## 🖥️ Quality Assurance Engineer
-
-### Quality Assurance Skills
+## 🖥️ Skills
 
 - **Project Management:**
   - Jira
