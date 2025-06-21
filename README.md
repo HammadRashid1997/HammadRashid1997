@@ -13,7 +13,7 @@
 </div>
 </div>
 
-## About Me 👀
+## About Me 
 
 
 Crafting Quality, Crushing Bugs – because every line of code deserves flawless performance.
