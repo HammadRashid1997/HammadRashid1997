@@ -71,17 +71,11 @@ Delivering reliable, efficient software solutions through a combination of devel
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" title="Github" alt="github" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Light.svg" title="Gitlab" alt="gitlab" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6-UAqq37mwatf_-z7LJFFg5-KM7gCvqXxJQ&s" title="Miro" alt=miro" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg" title="Illustrator" alt="Ai" width="40" height="40"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Sketch_Logo.svg/850px-Sketch_Logo.svg.png" title="Sketch" alt="sketch" width="40" height="40"/>&nbsp;
-    <img src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/lucidchart-icon.png" title="Lucid chart" alt="lchart" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" title="VScode" alt="VSC" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VisualStudio-Light.svg" title="VisualStudio" alt="VS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="xcode" width="45" height="45"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Light.svg" title="AndroidStudio" alt="andstd" width="40" height="40"/>&nbsp;
     <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" title="IntelliJ" alt="Idea" width="40" height="40"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="slack" width="40" height="40"/>&nbsp;
-    <img src="https://assets.mofoprod.net/network/images/discord.original.jpg" title="discord" alt=discord" width="40" height="40"/>&nbsp;
     <img src="https://avatars.githubusercontent.com/u/40727946?v=4" title="Proxyman" alt=proxyman" width="40" height="40"/>&nbsp;
 </div>
  
