@@ -37,7 +37,7 @@ Holding a bachelors degree in Computer Science from National University of Compu
 
 #### Avid Writer & Active Contributor ✍️
 
-I’m an active contributor on Medium, sharing insights on software testing, best practices, and the evolving role of QA engineers in development. Additionally, I regularly answer questions on Quora across various topics, sharing my knowledge and offering real-world problem-solving advice to help others in diverse fields.
+I’m an active contributor on Medium, sharing insights on software testing, best practices, and the evolving role of QA engineers in development.
 
 #### What Drives Me ⚡
 
