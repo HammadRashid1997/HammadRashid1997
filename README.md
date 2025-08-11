@@ -39,6 +39,9 @@ Holding a bachelors degree in Computer Science from National University of Compu
 
 I’m an active contributor on Medium, sharing insights on software testing, best practices, and the evolving role of QA engineers in development.
 
+#### Mentoring & Community Building 🤝
+Through my Topmate sessions, I actively help students, fresh graduates, and professionals enhance their QA skill set, understand the software testing landscape, and choose the right career path. My aim is to guide them in bridging the gap between academic knowledge and industry requirements.
+
 #### What Drives Me ⚡
 
 Delivering reliable, efficient software solutions through a combination of development and QA skills, keeping up with latest technologies to bring adaptability and efficiency to every project I work on.
