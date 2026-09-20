@@ -25,7 +25,7 @@ I'm **open to remote QA opportunities** and to collaborating with international 
 
 | Area | Tools |
 | :-- | :-- |
-| Automation | Cypress, Selenium, Appium |
+| Automation | Cypress, Playwright, Selenium, Appium |
 | API & network | Postman, Proxyman |
 | Performance | Grafana k6, JMeter |
 | Test frameworks | JUnit, Pytest |
