@@ -1,177 +1,81 @@
-<div id="istqb" align="center">
-  <img src="images/logo.jpg" alt="ISTQB Logo" width="250"/>
-</div>
+# Muhammad Hammad Rashid
 
-<div id="header" align="center">
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/hammad-rashid-2b51501aa/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://medium.com/@hammad.rashid_73904">
-    <img src="https://img.shields.io/badge/Medium-yellow?style=for-the-badge&logoColor=white" alt="Medium Badge"/>
-  </a>
-  <a href="https://topmate.io/hammad_rashid/">
-    <img src="https://img.shields.io/badge/Topmate-red?style=for-the-badge&logo=topmate&logoColor=white" alt="Topmate Badge"/>
-  </a>
-</div>
-</div>
+### Software Quality Assurance Engineer · Manual & Automation Testing
 
-## About Me 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hammad-rashid-2b51501aa/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@hammad.rashid_73904)
+[![Topmate](https://img.shields.io/badge/Topmate-Book%20a%20session-E5322D?style=flat-square)](https://topmate.io/hammad_rashid/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hammadrashid2001@gmail.com)
+![ISTQB](https://img.shields.io/badge/ISTQB-Foundation%20Level%20Certified-1F4E79?style=flat-square)
 
-Crafting Quality, Crushing Bugs – because every line of code deserves flawless performance.
+I test websites, mobile apps, and APIs to find problems before users do. My work covers both manual testing and test automation, and I combine QA with a software development background (Computer Science degree).
 
-#### Educational Background 👨‍💻
+I'm **open to remote QA opportunities** and to collaborating with international teams.
 
-Holding a bachelors degree in Computer Science from National University of Computer and Emerging Sciences.
+## 🔍 What I Do
 
-#### Core Skills 🌟
+- **Manual testing:** hands-on testing of websites and applications, including writing test cases, test plans, and test strategies.
+- **Automation testing:** automated test scripts using Cypress, Selenium, and Appium.
+- **API testing:** checking that the services behind an app return correct data and behave as expected, using Postman.
+- **Mobile testing:** testing apps on real devices, simulators, and emulators.
+- **Performance testing:** measuring how a system behaves under load, using Grafana k6 and JMeter.
+- **Requirement and design review:** reviewing specifications (SRS, FRD) and designs early to catch issues before development.
 
-* Programming Languages: C, C++, Python, JavaScript, Java, Kotlin
-* Testing: Manual and Automation Testing
-* Automation Tools: Postman, Cypress, JMeter, Selenium, Appium
-* Certification: ISTQB Foundation Level Certified
+## 🧰 Tools & Technologies
 
-#### Experience Snapshot 🧩
+| Area | Tools |
+| :-- | :-- |
+| Automation | Cypress, Selenium, Appium |
+| API & network | Postman, Proxyman |
+| Performance | Grafana k6, JMeter |
+| Test frameworks | JUnit, Pytest |
+| Code quality | ESLint |
+| Test scripting languages | JavaScript, TypeScript, Python, Java |
+| Other programming languages | C, C++, Kotlin |
+| Project & test management | Jira, ClickUp, Asana, Trello, Notion, Allure TestOps |
+| Documentation & communication | Microsoft Excel, Microsoft Word, Slack, MarkUp |
+| Version control & IDEs | GitHub, GitLab, VS Code, IntelliJ IDEA, Android Studio, Xcode |
+| Design | Figma |
+| Other | HTML, CSS, Bootstrap, MySQL, Tomcat, MATLAB |
 
-* Manual Testing for websites and applications, ensuring every detail meets high-quality standards.
-* Automation Testing with hands-on experience in tools that streamline and strengthen testing processes.
-* Agile Methodologies: Proficient in Scrum and Kanban, delivering iterative, high-quality releases.
-* SDLC Knowledge: Skilled in Waterfall, V-Model, and Agile models for diverse project needs.
+## ✅ Testing Expertise
 
-#### Avid Writer & Active Contributor ✍️
+**Test levels:** Component, Component Integration, Integration, System, System Integration, Acceptance (including User Acceptance)
 
-I’m an active contributor on Medium, sharing insights on software testing, best practices, and the evolving role of QA engineers in development.
+**Common test types:** Smoke, Sanity, Regression, Re-testing, Exploratory, Ad-hoc, Monkey, Gorilla, Alpha/Beta
 
-#### Mentoring & Community Building 🤝
-Through my Topmate sessions, I actively help students, fresh graduates, and professionals enhance their QA skill set, understand the software testing landscape, and choose the right career path. My aim is to guide them in bridging the gap between academic knowledge and industry requirements.
+**Areas of testing:** Web, Mobile, API, Database, Front-end/UI, Cross-browser, Compatibility, End-to-End (E2E)
 
-#### What Drives Me ⚡
+**Performance testing:** Load, Stress, Endurance
 
-Delivering reliable, efficient software solutions through a combination of development and QA skills, keeping up with latest technologies to bring adaptability and efficiency to every project I work on.
+**Test design techniques:** Boundary Value, Equivalence Class, State Transition, Black-box / Grey-box / White-box
 
-## 🛠️ Languages & Tools
+**Static testing (reviewing before running code):** Requirement, Design, and Document analysis; SRS and FRD analysis; Peer and Informal Code Review; Static Code Analysis
 
-<div>
-  <div id="languages-tools" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 10px;">
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CPP.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Python-Light.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Matlab-Light.svg" title="Matlab" alt="Matlab" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg" title="MySQL" alt="mysql" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" title="tomcat" alt="tomcat" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="Eslint"  alt="eslint" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/pytest/pytest-original.svg" title="Pytest" alt="pytest" width="40" height="40"/>&nbsp;
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrvVqEapXsm3wyIBCj0j6GwUMwEpsUElyGSA&s" title="Cypress" alt="cypress" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Selenium.svg" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Grafana-Light.svg" title="Grafana" alt="Grafana" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Postman.svg" title="Postman" alt="Postman" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg" title="Jira" alt="jira" width="40" height="40"/>&nbsp;
-    <img src="https://avatars.githubusercontent.com/u/5879127?s=280&v=4" title="Allure" alt="Allure" width="40" height="40"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Notion-logo.svg/1200px-Notion-logo.svg.png" title="Notion" alt="Notion" width="42" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Light.svg" title="Github" alt="github" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/GitLab-Light.svg" title="Gitlab" alt="gitlab" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Light.svg" title="Figma" alt="Figma" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Light.svg" title="VScode" alt="VSC" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/xcode/xcode-original.svg" title="Xcode" alt="xcode" width="45" height="45"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/AndroidStudio-Light.svg" title="AndroidStudio" alt="andstd" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Idea-Dark.svg" title="IntelliJ" alt="Idea" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="slack" width="40" height="40"/>&nbsp;
-    <img src="https://avatars.githubusercontent.com/u/40727946?v=4" title="Proxyman" alt=proxyman" width="40" height="40"/>&nbsp;
-</div>
- 
-## 🖥️ Skills
+## 🔄 Ways of Working
 
-- **Project Management:**
-  - Jira
-  - Clickup
-  - Notion
-  - MarkUp
-  - Microsoft Excel
-  - Microsoft Word
-  - Slack
-  - Asana
-  - Trello
-  - Allure TestOps
+- **Agile:** Scrum and Kanban
+- **SDLC models:** Waterfall, V-Model, Agile
 
-- **Testing Techniques:**
-  - **Static Testing**
-      - Informal Code Review
-      - Peer Review
-      - Static code analysis
-      - Document analysis
-      - Requirement analysis
-      - Design analysis
-      - SRS and FRD analysis
-      - Writing and analysing test cases and test plans
-      - Writing and developing test strategies
+## 🎓 Education & Certification
 
-  - **Dynamic Testing**
-      - Component Testing
-      - Component Integration Testing
-      - Integration Testing
-      - System Testing
-      - System Integration Testing
-      - Acceptance Testing
-      - Regression Testing
-      - Smoke Testing
-      - Sanity Testing
-      - Retesting Testing
-      - Exploratory Testing
-      - Ad-hoc Testing
-      - Monkey Testing
-      - Gorilla Testing
-      - Boundary Value Testing
-      - State Transitioning Testing
-      - Equivalence Class Testing
-      - Black/Grey/White box Testing
-      - Compatibility Testing
-      - Web Application Testing
-      - Mobile Application Testing
-      - Alpha/Beta Testing
-      - Cross Browser Testing
-      - UI Testing
-      - User Acceptance Testing
-      - Front-end Testing
-      - E2E Testing
-      - API Testing
-      - Database Testing
-      - Performance Testing
-          - Load Testing
-          - Stress Testing
-          - Endurance Testing 
+- **B.S. in Computer Science**, National University of Computer and Emerging Sciences
+- **ISTQB Certified Tester, Foundation Level**
 
- - **Test Scripting Languages:**
+## ✍️ Writing & Mentoring
 
-   - JavaScript
-   - Python
-   - Java
-   - TypeScript
+- **[Medium](https://medium.com/@hammad.rashid_73904):** I write about software testing, QA best practices, and the evolving role of QA engineers.
+- **[Topmate](https://topmate.io/hammad_rashid/):** I mentor students, fresh graduates, and professionals on QA skills, the testing landscape, and choosing a career path, helping bridge the gap between academic knowledge and industry requirements.
 
- - **Tools and Frameworks:**
- 
-    - Cypress
-    - Selenium
-    - Postman
-    - Proxyman
-    - EsLint
-    - Grafana K6
-    - JMeter
-    - JUnit
-    - Pytest
-    - Simulators
-    - Emulators
+## 📂 Repositories
 
-## Star History 🌟
+- [QA-RoadMap](https://github.com/HammadRashid1997/QA-RoadMap)
+- [Automation-Testing](https://github.com/HammadRashid1997/Automation-Testing)
+- [50Projects50Days-Testing](https://github.com/HammadRashid1997/50Projects50Days-Testing)
+- [Payment-Management-System](https://github.com/HammadRashid1997/Payment-Management-System)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=HammadRashid1997/50Projects50Days-Testing,HammadRashid1997/QA-RoadMap,HammadRashid1997/Automation-Testing,HammadRashid1997/Payment-Management-System&type=Date)](https://www.star-history.com/#HammadRashid1997/50Projects50Days-Testing&HammadRashid1997/QA-RoadMap&HammadRashid1997/Automation-Testing&HammadRashid1997/Payment-Management-System&Date)
+## 📬 Get in Touch
 
-## 📲 Get in Touch
-
-📬 Reach out to me via my email address hammadrashid2001@gmail.com
-
-🔗 Follow me on [LinkedIn](https://www.linkedin.com/in/hammad-rashid-2b51501aa/) and we can have an interesting conversation 😃
+- [LinkedIn](https://www.linkedin.com/in/hammad-rashid-2b51501aa/)
+- [hammadrashid2001@gmail.com](mailto:hammadrashid2001@gmail.com)
+- [Book a session on Topmate](https://topmate.io/hammad_rashid/)
